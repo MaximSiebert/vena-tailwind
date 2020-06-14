@@ -8,7 +8,7 @@ module.exports = {
         },
         orange: {
           '500': '#C34F2E'
-        },
+        }
       }
     },
   },
