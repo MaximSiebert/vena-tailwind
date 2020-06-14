@@ -16470,6 +16470,22 @@ video {
   transition-delay: 1000ms;
 }
 
+.nav-button {
+  --bg-opacity: 1;
+  background-color: #C34F2E;
+  background-color: rgba(195, 79, 46, var(--bg-opacity));
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
 @media (min-width: 640px) {
   .sm\:space-y-0 > :not(template) ~ :not(template) {
     --space-y-reverse: 0;
