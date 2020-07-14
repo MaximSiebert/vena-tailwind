@@ -5,6 +5,9 @@ module.exports = {
       'sans': ['Open Sans', 'system-ui', '-apple-system', 'BlinkMacSystemFont', "Segoe UI", 'Roboto', "Helvetica Neue", 'Arial', "Noto Sans", 'sans-serif', "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"],
       'serif': ['Gelasio', 'Georgia', 'Cambria', "Times New Roman", 'Times', 'serif']
     },
+    height: {
+      'h-80':  '21rem'
+    },
     extend: {
       colors: {
         green: {
