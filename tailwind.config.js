@@ -33,6 +33,10 @@ module.exports = {
       }
     },
   },
-  variants: {},
+  variants: {
+    borderWidth: ['responsive', 'last'],
+    margin: ['responsive', 'last'],
+    padding: ['responsive', 'last'],
+  },
   plugins: [],
 }
