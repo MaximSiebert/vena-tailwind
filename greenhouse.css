@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@400;700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+body {
+  font-family: 'Open Sans', 'system-ui', '-apple-system', 'BlinkMacSystemFont', "Segoe UI", 'Roboto', "Helvetica Neue", 'Arial', "Noto Sans", 'sans-serif', "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Gelasio', 'Georgia', 'Cambria', "Times New Roman", 'Times', 'serif';
+  color: #2D2A26;
+}
+
+a, .opening a {
+  color: #225D38;
+}
+
+p {
+  color: #6A6A6A;
+}
